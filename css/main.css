@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Lobster+Two:400italic);
+/*@import url(https://fonts.googleapis.com/css?family=Lobster+Two:400italic);*/
+@import url(https://fonts.googleapis.com/css?family=Mr+Dafoe|Damion|Yellowtail);
 body {
     padding-top: 100px;
     background: #fff;
@@ -253,10 +254,11 @@ ul.nostyle i {
 }
 #main-slider .slider-inner h2 {
     margin-top: 40px;
-    font-size: 36px;
+    font-size: 44px;
     line-height: 1;
-    font-family: 'Lobster Two', cursive;
-    text-transform: uppercase;
+    /*font-family: 'Lobster Two', cursive;*/
+    font-family: "Damion", cursive;
+    /*text-transform: uppercase;*/
     color: #fff; /*#abdbed;*/
     text-shadow: 2px 2px 4px #000000;
 }
